@@ -35,7 +35,7 @@
 
 <hr style = "border: 2px inset green;">
     <div  style="display: flex; align-items: center; justify-content: center;">
-        <h2 style="margin: 0;"> Coursera + CIEE +Google</h2>
+        <h2 style="margin: 0;"> Coursera + CIEE + Google</h2>
         <a href="https://www.coursera.org/">
             <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/e7/151f8a6d29490b8b5b1d3ef387eb82/removebg-preview.png?auto=format%2Ccompress&dpr=1&w=160&h=32" height="40" width="160" style="margin-left: 10px;">
         </a>
@@ -87,12 +87,12 @@
         <li>Robótica Básica - 30h - 05/17;</li>
         <li>Segurança no Trabalho e Eletricidade Básica - 40h - 06/22.</li>
     </ul>
-<hr>
+</hr>
 
 <hr style="border: 2px inset green;">
     <div style="display: flex; align-items: center; justify-content: center;">
         <h2 style="margin: 0;">Hackers do Bem</h2>
-        <a href="https://conteudo.hackersdobem.org.br/">
+        <a href="https://www.coursera.org/">
             <img src="https://www.rnp.br/arquivos/2023-06/microsoftteams-image_33.png?VersionId=Xig2dtEriSRSc9Y_UHlTmh370mD.Q_z1" height="70" width="170" style="margin-left: 10px;">
         </a>
     </div>
