@@ -5,7 +5,7 @@
 
 
 <hr style="border: 2px inset green;">
-    <div style="display: flex; align-items: center; justify-content: center">
+    <div style="text-align: center;">
         <h2 style="margin: 0"> Campus Party Brasil </h2>
         <a href="https://brasil.campus-party.org/">
             <img src="https://brasil.campus-party.org/wp-content/uploads/2021/11/LOGO_CPBRASIL-GOUVEA_BRANCO_RGB.png" height="80" width="160" style="margin-left: 10px">
@@ -35,10 +35,9 @@
 
 <hr style = "border: 2px inset green;">
     <div  style="display: flex; align-items: center; justify-content: center;">
-        <h2 style="margin: 0;"> Coursera + Google </h2>
+        <h2 style="margin: 0;"> Coursera + CIEE +Google</h2>
         <a href="https://www.coursera.org/">
-            <img src="https://icons-for-free.com/download.php?icon_download=coursera-1330289834364177905&size=128&type=png&m=1722000358" height="70" width="70" style="margin-left: 10px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="70" width="70" style="margin-left: 10px;">
+            <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/e7/151f8a6d29490b8b5b1d3ef387eb82/removebg-preview.png?auto=format%2Ccompress&dpr=1&w=160&h=32" height="40" width="160" style="margin-left: 10px;">
         </a>
     </div>
     <br>
