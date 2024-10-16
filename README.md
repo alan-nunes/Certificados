@@ -129,25 +129,24 @@
     </ul>
 </hr>
 
-<hr style="border: 2px inset green;">
-    <div style="display: flex; align-items: center; justify-content: center; text-align: center"> 
-        <h2 style="margin: 0;">Programa ONE T6</h2>
-        <a href="https://www.oracle.com/br/education/oracle-next-education/" style="display: flex; align-items: center; margin-left: 10px;">
-            <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" height="" style="margin-left: 10px">
-            <img src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" style="margin-left: 10px">
-        </a>    
-    </div>
-    <br>
-    <ul>
-        <li>Formação Aprenda a Programar em Java com Orientação a Objetos - 39h - 05/24;</li>
-        <li>Formação Desenvolvimento Pessoal - 38h - 01/24;</li>
-        <li>Formação Empreendedorismo, Agilidade e Protagonismo na Carreira - 54h - 05/24;</li>
-        <li>Formação Iniciante em Programação - 54h - 02/24;</li>
-        <li>Formação Java e Orientação a Objetos - 49h - 05/24;</li>
-        <li>Formação Java e Spring Boot - 34h - 07/24</li>
-        <li>Formação Java e Spring Framework - 108h - 07/24;</li>
-        <li>Java Web Crie Aplicações Usando Spring Boot - 40h - 06/24;</li>
-        <li>Formação Minha Carreira - 40h - 04/24;</li>
-        <li><strong>Conclusão do Programa Oracle Next Education F2 T6 Back-end - 303h - 07/24</strong></li>
-    </ul>
-</hr>
+## Programa ONE T6
+
+![Alura logo](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
+![Oracle logo](https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png)
+
+- Formação Aprenda a Programar em Java com Orientação a Objetos - 39h - 05/24;
+- Formação Desenvolvimento Pessoal - 38h - 01/24;
+- Formação Empreendedorismo, Agilidade e Protagonismo na Carreira - 54h - 05/24;
+- Formação Iniciante em Programação - 54h - 02/24;
+- Formação Java e Orientação a Objetos - 49h - 05/24;
+- Formação Java e Spring Boot - 34h - 07/24;
+- Formação Java e Spring Framework - 108h - 07/24;
+- Java Web Crie Aplicações Usando Spring Boot - 40h - 06/24;
+- Formação Minha Carreira - 40h - 04/24;
+- **Conclusão do Programa Oracle Next Education F2 T6 Back-end - 303h - 07/24**
+
+### ONE | Allumni
+#### Oracle Cloud Infrastructure
+- Implantação de uma aplicação na nuvem - 8h - 10/24
+- Banco de dados e infraestrutura como código - 8h - 10/24
+
