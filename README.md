@@ -66,87 +66,83 @@
 </hr>
 
 
-<hr style="border: 2px inset green;">
-    <div style="display: flex; align-items: center; justify-content: center; text-align: center">
-        <h2 style="margin: 0;"> Instituto Federal de Educação, Ciência  e Tecnologia </h2>
-        <img src="https://portal.tco.ifsuldeminas.edu.br/images/Campus/marcaoficial/IntitutoFederal-aplica%C3%A7%C3%B5es-horizontais-02.png" height="60" width="160" style="margin-left: 10px;">
-    </div>
-    <br>
-     <ul>
-        <li> Banco de Dados 40h - 02/23;</li>
-        <li> Educação Profissional e o Novo Ensino Médio - 25h - 01/23;</li>
-        <li> Formação Inicial e Continuada em Estatística Descritiva - 200h - 11/20;</li>
-        <li>Linguagem PHP - 40h - 09/22;</li>
-        <li>Manutenção de Computadores - 60h - 01/22;</li>
-        <li>Monitor de Informática Básica I - 60h - 02/22 - 07/22;</li>
-        <li>Monitor do Projeto de Algortimo - 312h - 12/22;</li>
-        <li>Projeto Robótica Educacional como possibilidade de iniciação à Programação nas Escolas Públicas - 01/22 - 12/22;</li>
-        <li>Projeto Robótica Educacional e Ensino de Computação na Educação Básica - 03/23 - 01/24;</li>
-        <li> Python 2h - 01/23;</li>
-        <li> Residência Pedagógica - 11/22 - 04/24;</li>
-        <li>Robótica Básica - 30h - 05/17;</li>
-        <li>Segurança no Trabalho e Eletricidade Básica - 40h - 06/22.</li>
-    </ul>
-</hr>
+---
 
-<hr style="border: 2px inset green;">
-    <div style="display: flex; align-items: center; justify-content: center;">
-        <h2 style="margin: 0;">Hackers do Bem</h2>
-        <a href="https://www.coursera.org/">
-            <img src="https://www.rnp.br/arquivos/2023-06/microsoftteams-image_33.png?VersionId=Xig2dtEriSRSc9Y_UHlTmh370mD.Q_z1" height="70" width="170" style="margin-left: 10px;">
-        </a>
-    </div>
-    <br>
-    <lu>
-        <li>Formação em Cibersegurança - 80h - 03/24.</li>
-    </lu>
-</hr>
+## Instituto Federal de Educação, Ciência e Tecnologia
+
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+    <img src="https://portal.tco.ifsuldeminas.edu.br/images/Campus/marcaoficial/IntitutoFederal-aplica%C3%A7%C3%B5es-horizontais-02.png" height="60" width="160" alt="Logo Instituto Federal">
+</div>
+
+### Cursos e Projetos
+
+- [Banco de Dados - 40h - 02/23](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Banco%20de%20Dados.pdf)
+- [Educação Profissional e o Novo Ensino Médio - 25h - 01/23](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Educa%C3%A7%C3%A3o%20Profissional%20e%20o%20Novo%20Ensino%20M%C3%A9dio.pdf)
+- [Formação Inicial e Continuada em Estatística Descritiva - 200h - 11/20](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Estatistica%2001.pdf)
+- [Linguagem PHP - 40h - 09/22](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Linguagem%20PHP.pdf)
+- [Manutenção de Computadores - 60h - 01/22](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Manuten%C3%A7%C3%A3o%20de%20Computadores.pdf)
+- [Monitor Voluntario de Informática Básica I - 60h - 02/22 - 07/22](https://github.com/alan-nunes/Certificados/blob/main/Declara%C3%A7%C3%A3o%20Licenciatura%20Intercultural%20Ind%C3%ADgena.pdf)
+- [Monitor do Projeto de Algoritmo - 312h - 12/22](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Monitoria%20Algoritmo.pdf)
+- [Projeto Robótica Educacional como Possibilidade de Iniciação à Programação nas Escolas Públicas - 01/22 - 12/22](https://github.com/alan-nunes/Certificados/blob/main/Declara%C3%A7%C3%A3o%20Projeto%20Rob%C3%B3tica.pdf)
+- [Projeto Robótica Educacional e Ensino de Computação na Educação Básica - 03/23 - 01/24](https://github.com/alan-nunes/Certificados/blob/main/Declara%C3%A7%C3%A3o%20Robotica%202023.pdf)
+- [Python - 2h - 01/23](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20%20Python.pdf)
+- [Residência Pedagógica - 11/22 - 04/24](https://github.com/alan-nunes/Certificados/blob/main/Declara%C3%A7%C3%A3o%20Projeto%20Resid%C3%AAncia%20Pedag%C3%B3gica.pdf)
+- [Robótica Básica - 30h - 05/17](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Rob%C3%B3tica%20B%C3%A1sica.pdf)
+- [Segurança no Trabalho e Eletricidade Básica - 40h - 06/22](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Seguran%C3%A7a%20no%20Trabalho%20e%20Eletricidade%20B%C3%A1sica.pdf)
+
+---
 
 
-<hr style = "border: 2px inset green;">
-    <div style="display:flex; align-items: center; justify-content: center;">
-        <h2 style="margin: 0;"> Loiane Training</h2>
-        <a href="https://loiane.training/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="80" width="80" style="margin-left: 10px">
-        </a>
-    </div> 
-    <br>
-    <ul>
-        <li>Java Básico - 30h - 07-22.</li>
-    </ul>
-</hr>
+## Hackers do Bem
+
+<a href="https://www.coursera.org/">
+    <img src="https://www.rnp.br/arquivos/2023-06/microsoftteams-image_33.png?VersionId=Xig2dtEriSRSc9Y_UHlTmh370mD.Q_z1" height="70" width="170" alt="Logo Hackers do Bem">
+</a>
+
+### Cursos
+- [Formação em Cibersegurança - 80h - 03/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20-%20Nivelamento%20-%20Forma%C3%A7%C3%A3o%20em%20Ciberseguran%C3%A7a.pdf)
+
+---
 
 
-<hr style="border: 2px inset green;">
-    <div style="display:flex; align-items: center; justify-content: center">
-        <h2 style="margin: 0;">Ministério da Educação</h2>
-        <a href="https://avamec.mec.gov.br/#/">
-            <img src="https://avamec.mec.gov.br/assets/images/marca/footer/sistema.svg" height="100" width="100" style="margin-left: 10px" >
-        </a>
-    </div>
-    <ul>
-        <li>Português - 60h - 07/21</li>
-    </ul>
-</hr>
+## Loiane Training
+
+<a href="https://loiane.training/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="90" width="90" alt="Logo Angular">
+</a>
+
+- [Java Básico - 30h - 07/22](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Java%20Basico.pdf)
+
+
+---
+
+## Ministério da Educação
+
+[![Logo Ministério da Educação](https://avamec.mec.gov.br/assets/images/marca/footer/sistema.svg)](https://avamec.mec.gov.br/#/)
+
+- [Português - 60h - 07/21](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Portugu%C3%AAs.pdf)
+
+---
+
 
 ## Programa ONE T6
 
 ![Alura logo](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
 ![Oracle logo](https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png)
 
-- Formação Aprenda a Programar em Java com Orientação a Objetos - 39h - 05/24;
-- Formação Desenvolvimento Pessoal - 38h - 01/24;
-- Formação Empreendedorismo, Agilidade e Protagonismo na Carreira - 54h - 05/24;
-- Formação Iniciante em Programação - 54h - 02/24;
-- Formação Java e Orientação a Objetos - 49h - 05/24;
-- Formação Java e Spring Boot - 34h - 07/24;
-- Formação Java e Spring Framework - 108h - 07/24;
-- Java Web Crie Aplicações Usando Spring Boot - 40h - 06/24;
-- Formação Minha Carreira - 40h - 04/24;
-- **Conclusão do Programa Oracle Next Education F2 T6 Back-end - 303h - 07/24**
+- [Formação Aprenda a Programar em Java com Orientação a Objetos - 39h - 05/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Aprenda%20a%20programar%20em%20Java%20com%20Orienta%C3%A7%C3%A3o%20a%20Objetos.pdf)
+- [Formação Desenvolvimento Pessoal - 38h - 01/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Desenvolvimento%20Pessoal%20T6%20-%20ONE.pdf)
+- [Formação Empreendedorismo, Agilidade e Protagonismo na Carreira - 54h - 05/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Empreendedorismo%2C%20Agilidade%20e%20Protagonismo%20na%20Carreira.pdf)
+- [Formação Iniciante em Programação - 54h - 02/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Iniciante%20em%20Programa%C3%A7%C3%A3o%20T6.pdf)
+- [Formação Java e Orientação a Objetos - 49h - 05/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos.pdf)
+- [Formação Java e Spring Boot - 34h - 07/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Java%20e%20Spring%20Boot.pdf)
+- [Formação Java e Spring Framework - 108h - 07/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Java%20e%20Spring%20Framework.pdf)
+- [Java Web Crie Aplicações Usando Spring Boot - 40h - 06/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Java%20Web%20Crie%20Aplica%C3%A7%C3%B5es%20Usando%20Spring%20Boot.pdf)
+- [Formação Minha Carreira - 40h - 04/24](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Forma%C3%A7%C3%A3o%20Minha%20carreira%20T6.pdf)
+- [**Conclusão do Programa Oracle Next Education F2 T6 Back-end - 303h - 07/24**](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Oracle%20Next%20Education%20F2%20T6%20Back-end.pdf)
 
 ### ONE | Allumni
 #### Oracle Cloud Infrastructure
-- Implantação de uma aplicação na nuvem - 8h - 10/24
-- Banco de dados e infraestrutura como código - 8h - 10/24
+- [Implantação de uma aplicação na nuvem - 8h - 10/24](https://github.com/alan-nunes/Certificados/blob/main/Oracle%20Cloud%20Infrastructure%20implanta%C3%A7%C3%A3o%20de%20uma%20aplica%C3%A7%C3%A3o%20na%20nuvem.pdf)
+- [Banco de dados e infraestrutura como código - 8h - 10/24](https://github.com/alan-nunes/Certificados/blob/main/Banco%20de%20dados%20e%20infraestrutura%20como%20c%C3%B3digo.pdf)
 
