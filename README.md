@@ -10,8 +10,8 @@
     <img src="https://brasil.campus-party.org/wp-content/uploads/2021/11/LOGO_CPBRASIL-GOUVEA_BRANCO_RGB.png" height="80" width="160" style="margin-left: 10px">
 </a>   
 
-- Campus Party Brasil 15 - 700h - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Campus%20Party.pdf)
-- Campus Party Brasil 16 - 200h - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Campus%20Party%2016.pdf)
+- Campus Party Brasil 15 - 700h - [Certificado](./Certificados/Campus%20Party/Certificado%20Campus%20Party.pdf)
+- Campus Party Brasil 16 - 200h - [Certificado](./Certificados/Campus%20Party/Certificado%20Campus%20Party%2016.pdf)
 
  
 --- 
