@@ -27,6 +27,22 @@
 
 ---
 
+## CEPEDI
+
+<a href="https://cepedi.org.br/">
+  <img src="https://residenciatic18.cepedi.org.br/_next/static/media/cepedi.c74e81f1.png" heigth="40" width="120" style="margin-left:10px">
+</a>
+
+### Comunicação
+- Comunicação assertiva: reduzindo conflitos e frustrações - 6h - 09/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Comunica%C3%A7%C3%A3o%20assertiva%20reduzindo%20conflitos%20e%20frustra%C3%A7%C3%B5es.pdf)
+- Comunicação: como se expressar bem e ser compreendido - 12h - 09/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Comunica%C3%A7%C3%A3o%20como%20se%20expressar%20bem%20e%20ser%20compreendido.pdf)
+- Comunicação não violenta: consciência para agir - 8h - 09/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Comunica%C3%A7%C3%A3o%20n%C3%A3o%20violenta%20consci%C3%AAncia%20para%20agir.pdf)
+- Comunicação não violenta parte 2: mantendo a empatia - 4h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Comunica%C3%A7%C3%A3o%20n%C3%A3o%20violenta%20parte%202%20mantendo%20a%20empatia.pdf)
+- Comunicação participativa: liderança eficaz e motivadora - 10h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Comunica%C3%A7%C3%A3o%20participativa%20lideran%C3%A7a%20eficaz%20e%20motivadora.pdf)
+- Feedback efetivo: utilizando ferramentas para comunicação transformadora - 8h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Feedback%20efetivo%20utilizando%20ferramentas%20para%20comunica%C3%A7%C3%A3o%20transformadora.pdf)
+
+--- 
+
 ## Coursera + CIEE + Google
 
 <a href="https://www.coursera.org/">
