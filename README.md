@@ -4,33 +4,26 @@
  Sou jovem e amo adquirir novas habilidades e conhecimentos. Diante disso, não perco oportunidades de realizar cursos e projetos. Pois, os conhecimentos que tenho hoje foi construído por meio de cada hora dedicada aos estudos. </h2>
 
 
-<hr style="border: 2px inset green;">
-    <div style="text-align: center;">
-        <h2 style="margin: 0"> Campus Party Brasil </h2>
-        <a href="https://brasil.campus-party.org/">
-            <img src="https://brasil.campus-party.org/wp-content/uploads/2021/11/LOGO_CPBRASIL-GOUVEA_BRANCO_RGB.png" height="80" width="160" style="margin-left: 10px">
-        </a>   
-    </div>
-    <br>
-    <ul>
-        <li>Campus Party Brasil 15 - 700h; </li>
-        <li>Campus Party Brasil 16 - 200h.</li>
-    </ul> 
-</hr>
+## Campus Party Brasil
+        
+<a href="https://brasil.campus-party.org/">
+    <img src="https://brasil.campus-party.org/wp-content/uploads/2021/11/LOGO_CPBRASIL-GOUVEA_BRANCO_RGB.png" height="80" width="160" style="margin-left: 10px">
+</a>   
+
+- Campus Party Brasil 15 - 700h - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Campus%20Party.pdf)
+- Campus Party Brasil 16 - 200h - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Campus%20Party%2016.pdf)
+
+ 
+--- 
 
 
-<hr style = "border: 2px inset green;">
-    <div style="display: flex; align-items: center; justify-content: center">
-        <h2 style="margin: 0;"> Certsys</h2>
-        <a href="https://www.certsys.com.br/">
-            <img src="https://static.wixstatic.com/media/cc5610_bd00077ed9314b59b8600729e9027de6~mv2.png/v1/fill/w_129,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-horizontal-sem-fundo-1000x2000px_ed.png" height="40" width="120" style="margin-left: 10px">
-        </a>    
-    </div>
-    <br>
-    <ul>
-        <li>Fundamentos de Data Science - 20h - 07/22.</li>
-    </ul>
-</hr>
+## Certsys
+
+<a href="https://www.certsys.com.br/">
+      <img src="https://static.wixstatic.com/media/cc5610_bd00077ed9314b59b8600729e9027de6~mv2.png/v1/fill/w_129,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-horizontal-sem-fundo-1000x2000px_ed.png" height="40" width="120" style="margin-left: 10px">
+</a>    
+
+- Fundamentos de Data Science - 20h - 07/22 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Fundamentos%20de%20Data%20Science.pdf)
 
 ---
 
@@ -136,3 +129,7 @@
 - Implantação de uma aplicação na nuvem - 8h - 10/24 - [Cetificado](https://github.com/alan-nunes/Certificados/blob/main/Oracle%20Cloud%20Infrastructure%20implanta%C3%A7%C3%A3o%20de%20uma%20aplica%C3%A7%C3%A3o%20na%20nuvem.pdf)
 - Banco de dados e infraestrutura como código - 8h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Banco%20de%20dados%20e%20infraestrutura%20como%20c%C3%B3digo.pdf)
 
+#### Formação IA Generativa - 25h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20IA%20Generativa%20-%20ONE.pdf)
+- ChatGPT: otimizando a qualidade dos resultados - 8h - 07/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20ChatGPT%20otimizando%20a%20qualidade%20dos%20resultados.pdf)
+- ChatGPT e JavaScript: construa o jogo Pong - 8h - 07/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20ChatGPT%20e%20JavaScript%20construa%20o%20jogo%20Pong.pdf)
+- ChatGPT e programação: aumente sua produtividade - 8h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20ChatGPT%20e%20programa%C3%A7%C3%A3o%20aumente%20sua%20produtividade.pdf)
