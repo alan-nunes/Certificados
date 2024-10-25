@@ -1,8 +1,18 @@
-<h1 align="center"> Cursos e Experiências </h1>
+<h1 align="center"> Certificados de Formação e Conquistas Acadêmicas 🏆 </h1>
 
-<h2 align="justify" >Certificados adquiridos ao decorrer da vida
- Sou jovem e amo adquirir novas habilidades e conhecimentos. Diante disso, não perco oportunidades de realizar cursos e projetos. Pois, os conhecimentos que tenho hoje foi construído por meio de cada hora dedicada aos estudos. </h2>
+<h2 align="justify" >
+Este repositório é dedicado aos meus certificados obtidos ao longo da minha jornada acadêmica e profissional, incluindo cursos, eventos, workshops e formações que fortaleceram minha carreira em tecnologia e educação. Cada certificado representa uma etapa de aprendizado e dedicação em áreas como desenvolvimento de software, educação digital, metodologias pedagógicas e outras habilidades essenciais. 
 
+<br>Explore o repositório para acompanhar minha trajetória e habilidades desenvolvidas em diferentes áreas.</h2>
+
+
+## 3ª Semana Nacional da Educação Profissional e Tecnológica
+
+<a href="https://www.sympla.com.br/evento/3-semana-nacional-da-educacao-profissional-e-tecnologica/2182392">
+    <img src="./icons/semana_nacional_da_educacao.png" height="90" widht="160" style="margin-left: 10px">
+</a>
+
+- InovEPT - [Certificado](./Certificados/3ª%20SEMANA%20NACIONAL%20DA%20EDUCAÇÃO%20PROFISSIONAL%20E%20TECNOLÓGICA.pdf)
 
 ## Campus Party Brasil
         
