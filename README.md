@@ -41,6 +41,13 @@
 - Comunicação participativa: liderança eficaz e motivadora - 10h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Comunica%C3%A7%C3%A3o%20participativa%20lideran%C3%A7a%20eficaz%20e%20motivadora.pdf)
 - Feedback efetivo: utilizando ferramentas para comunicação transformadora - 8h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Feedback%20efetivo%20utilizando%20ferramentas%20para%20comunica%C3%A7%C3%A3o%20transformadora.pdf)
 
+### Comunicação de Liderança
+- Comunicação estratégica na liderança: como engajar e influenciar pessoas - 8h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Comunica%C3%A7%C3%A3o%20estrat%C3%A9gica%20na%20lideran%C3%A7a%20como%20engajar%20e%20influenciar%20pessoas.pdf)
+- Comunicação participativa: liderança eficaz e motivadora - 10h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Comunica%C3%A7%C3%A3o%20participativa%20lideran%C3%A7a%20eficaz%20e%20motivadora.pdf)
+- Negociação para líderes: desenvolva a habilidade e consiga bons acordos - 8h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Negocia%C3%A7%C3%A3o%20para%20l%C3%ADderes%20desenvolva%20a%20habilidade%20e%20consiga%20bons%20acordos.pdf)
+- Oratória para líderes: como se comunicar profissionalmente - 8h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Orat%C3%B3ria%20para%20l%C3%ADderes%20como%20se%20comunicar%20profissionalmente.pdf)
+- Oratória: supere desafios com confiança - 6h - 10/24 - [Certificado](https://github.com/alan-nunes/Certificados/blob/main/Certificado%20Orat%C3%B3ria%20supere%20desafios%20com%20confian%C3%A7a.pdf)
+
 --- 
 
 ## Coursera + CIEE + Google
