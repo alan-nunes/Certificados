@@ -7,7 +7,7 @@
 ## Campus Party Brasil
         
 <a href="https://brasil.campus-party.org/">
-    <img src="https://brasil.campus-party.org/wp-content/uploads/2021/11/LOGO_CPBRASIL-GOUVEA_BRANCO_RGB.png" height="80" width="160" style="margin-left: 10px">
+    <img src="./icons/campus_party.jfif" height="80" width="160" style="margin-left: 10px">
 </a>   
 
 - Campus Party Brasil 15 - 700h - [Certificado](./Certificados/Campus%20Party/Certificado%20Campus%20Party.pdf)
@@ -20,7 +20,7 @@
 ## Certsys
 
 <a href="https://www.certsys.com.br/">
-      <img src="https://static.wixstatic.com/media/cc5610_bd00077ed9314b59b8600729e9027de6~mv2.png/v1/fill/w_129,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-horizontal-sem-fundo-1000x2000px_ed.png" height="40" width="120" style="margin-left: 10px">
+      <img src="./icons/certsys.webp" height="40" width="120" style="margin-left: 10px">
 </a>    
 
 - Fundamentos de Data Science - 20h - 07/22 - [Certificado](./Certificados/Certsys/Certificado%20Fundamentos%20de%20Data%20Science.pdf)
@@ -30,7 +30,7 @@
 ## CEPEDI
 
 <a href="https://cepedi.org.br/">
-  <img src="https://residenciatic18.cepedi.org.br/_next/static/media/cepedi.c74e81f1.png" heigth="40" width="120" style="margin-left:10px">
+  <img src="./icons/cepedi.png" heigth="40" width="120" style="margin-left:10px">
 </a>
 
 ### Comunicação
@@ -62,7 +62,7 @@
 ## Coursera + CIEE + Google
 
 <a href="https://www.coursera.org/">
-   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/e7/151f8a6d29490b8b5b1d3ef387eb82/removebg-preview.png?auto=format%2Ccompress&dpr=1&w=160&h=32" height="40" width="160" style="margin-left: 10px;">
+   <img src="./icons/google + ciee.png" height="40" width="160" style="margin-left: 10px;">
 </a>
 
 - **Certificado Profissional em Suporte em TI do Google - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Suporte%20em%20TI%20do%20Google.pdf)**
@@ -82,7 +82,7 @@
 
 ## Defensoria Pública
  <a href="https://www.defensoria.ba.def.br/">
-            <img src="https://www.defensoria.ba.def.br/wp-content/themes/defensoria/imgs/logo.png" height="50" width="120" style="margin-left: 10px;">
+            <img src="./icons/defensoria_publica.png" height="50" width="120" style="margin-left: 10px;">
  </a>    
 
  - Estágio em Informática - 03/22 - 01/24 - [Certificado](./Certificados/Defensoria%20Pública/Certificado%20Estagio%20Defensoria%20Pública.pdf)
@@ -92,7 +92,7 @@
 ## Instituto Federal de Educação, Ciência e Tecnologia
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-    <img src="https://portal.tco.ifsuldeminas.edu.br/images/Campus/marcaoficial/IntitutoFederal-aplica%C3%A7%C3%B5es-horizontais-02.png" height="60" width="160" alt="Logo Instituto Federal">
+    <img src="./icons/if.png" height="60" width="160" alt="Logo Instituto Federal">
 </div>
 
 ### Cursos e Projetos
@@ -129,7 +129,7 @@
 ## Hackers do Bem
 
 <a href="https://hackersdobem.org.br/">
-    <img src="https://www.rnp.br/arquivos/2023-06/microsoftteams-image_33.png?VersionId=Xig2dtEriSRSc9Y_UHlTmh370mD.Q_z1" height="70" width="170" alt="Logo Hackers do Bem">
+    <img src="./icons/hackers_do_bem.png" height="70" width="170" alt="Logo Hackers do Bem">
 </a>
 
 - Formação em Cibersegurança - 80h - 03/24 - [Certificado](./Certificados/Hackers%20do%20Bem/Certificado%20Formação%20em%20Cibersegurança.pdf)
@@ -141,7 +141,7 @@
 ## Loiane Training
 
 <a href="https://loiane.training/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="90" width="90" alt="Logo Angular">
+    <img src="./icons/loiane.png" height="70" width="170" alt="Logo Angular">
 </a>
 
 - Java Básico - 30h - 07/22 - [Certificado](./Certificados/Loiane%20Training/Certificado%20Java%20Basico.pdf)
@@ -151,7 +151,7 @@
 
 ## Ministério da Educação
 
-[![Logo Ministério da Educação](https://avamec.mec.gov.br/assets/images/marca/footer/sistema.svg)](https://avamec.mec.gov.br/#/)
+[![Logo Ministério da Educação](./icons/avamec.svg)](https://avamec.mec.gov.br/#/)
 
 - Português - 60h - 07/21 - [Certificado](./Certificados/Ministério%20da%20Educação/Certificado%20Português.pdf)
 
@@ -160,8 +160,8 @@
 
 ## Programa ONE T6
 
-![Alura logo](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
-![Oracle logo](https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png)
+![Alura logo](./icons/alura.svg)
+![Oracle logo](./icons/oracle_next_education.webp)
 
 - **Conclusão do Programa Oracle Next Education F2 T6 Back-end - 303h - 07/24** - [Certificado](./Certificados/ONE%20T6/Certificado%20Oracle%20Next%20Education%20F2%20T6%20Back-end.pdf)
 
