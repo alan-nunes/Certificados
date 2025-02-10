@@ -77,17 +77,19 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 
 - **Certificado Profissional em Suporte em TI do Google - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Suporte%20em%20TI%20do%20Google.pdf)**
 
-- Administração de Sistemas e serviços de Infraestrutura em TI - 29h - 02/24 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Administração%20de%20Sistemas%20e%20Serviços%20de%20Infraestrutura%20de%20TI.pdf)
+    - Administração de Sistemas e serviços de Infraestrutura em TI - 29h - 02/24 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Administração%20de%20Sistemas%20e%20Serviços%20de%20Infraestrutura%20de%20TI.pdf)
 
-- Estrutura e Funcionamento das Redes de Computadores - 30h - 10/23 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Estrutura%20e%20Funcionamento%20das%20Redes%20de%20Computadores.pdf)
+    - Estrutura e Funcionamento das Redes de Computadores - 30h - 10/23 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Estrutura%20e%20Funcionamento%20das%20Redes%20de%20Computadores.pdf)
 
-- Fundamentos do Suporte Técnico - 24h - 08/23 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Fundamentos%20de%20Suporte%20Técnico.pdf)
+    - Fundamentos do Suporte Técnico - 24h - 08/23 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Fundamentos%20de%20Suporte%20Técnico.pdf)
 
-- Segurança de TI - 35h - 01/24 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Segurança%20de%20TI.pdf)
+    - Segurança de TI - 35h - 01/24 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Segurança%20de%20TI.pdf)
 
-- Sistemas Operacionais e Você: Tornando-se um Usuário Avançado - 37h - 12/23 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Sistemas%20Operacionais%20e%20Você.pdf)
- 
+    - Sistemas Operacionais e Você: Tornando-se um Usuário Avançado - 37h - 12/23 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Sistemas%20Operacionais%20e%20Você.pdf)
 
+- **Certificado Profissional de Google Cybersecurity**
+    - Fundamentos da Segurança Cibernética - 9h - 01/25 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Fundamentos%20em%20Cibersegurança.pdf)
+    - Jogue pelo Seguro: Gerencie Riscos de Segurança - 9h - 02/25 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Jogue%20Pelo%20Seguro%20Gerencie%20Riscos%20de%20Segurança.pdf)
 ---
 
 ## Defensoria Pública
