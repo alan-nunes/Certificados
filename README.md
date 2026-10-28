@@ -55,6 +55,9 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
   <img src="./icons/cepedi.png" heigth="40" width="120" style="margin-left:10px">
 </a>
 
+- 1 do Programa de Residência em Software: Bahia + Tecnologia + Empreendedorismo, na Trilha 7 - Desenvolvimento Back-End
+(Python) - 300h - 01/25 - [Certificado](./Certificados/CEPEDI/Certificado%20Programa%20de%20Residência%20em%20Software.pdf)
+
 ### Comunicação
 - Comunicação assertiva: reduzindo conflitos e frustrações - 6h - 09/24 - [Certificado](./Certificados/CEPEDI/Comunicação/Certificado%20Comunicação%20assertiva%20reduzindo%20conflitos%20e%20frustrações.pdf)
 
@@ -213,7 +216,7 @@ Fronteiras da Agroecologia como Ciência e Suas Relações com as Realidades dos
 
 - PET Conecta com Pós-Graduação - 2h - 05/22 - [Certificado](./Certificados/IF/Certificado%20PET%20Conecta%20com%20Pós-Graduação.pdf)
 
-- XXIX ENAPET: TECNOPET: Inclusão Digital Como Ferramenta de Commbate ao Etarismo no Ensino Superior - 11/24 - [Certificado](./Certificados/IF/Certificado%20XXIX%20ENAPET%20Apresentação.pdf)
+- XXIX ENAPET: TECNOPET: Inclusão Digital Como Ferramenta de Combate ao Etarismo no Ensino Superior - 11/24 - [Certificado](./Certificados/IF/Certificado%20XXIX%20ENAPET%20Apresentação.pdf)
 
 - XXIX ENAPET: Encontro Nacional dos Grupos PET - 30h - 11/24 - [Certificado](./Certificados/IF/Certificado%20XXIX%20ENAPET%20Participação.pdf)
 
