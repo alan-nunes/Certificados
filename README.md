@@ -5,7 +5,6 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 
 <br>Explore o repositório para acompanhar minha trajetória e habilidades desenvolvidas em diferentes áreas.</h2>
 
-
 ## 3ª Semana Nacional da Educação Profissional e Tecnológica
 
 <a href="https://www.sympla.com.br/evento/3-semana-nacional-da-educacao-profissional-e-tecnologica/2182392">
@@ -13,6 +12,19 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 </a>
 
 - InovEPT - [Certificado](./Certificados/3ª%20SEMANA%20NACIONAL%20DA%20EDUCAÇÃO%20PROFISSIONAL%20E%20TECNOLÓGICA.pdf)
+
+---
+</br>
+
+## 4-Linux
+<a href="https://4linux.com.br/cursos//">
+      <img src="./icons/4linux.svg" height="80" width="120" style="margin-left: 10px">
+</a>    
+
+- 701 - Linux Fundamentals - 20h - 12/25 - [Certificado](./Certificados/Certificado%20701%20-%20Linux.pdf)
+
+---
+</br>
 
 ## Campus Party Brasil
         
@@ -23,9 +35,8 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 - Campus Party Brasil 15 - 700h - [Certificado](./Certificados/Campus%20Party/Certificado%20Campus%20Party.pdf)
 - Campus Party Brasil 16 - 200h - [Certificado](./Certificados/Campus%20Party/Certificado%20Campus%20Party%2016.pdf)
 
- 
 --- 
-
+</br>
 
 ## Certsys
 
@@ -36,6 +47,7 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 - Fundamentos de Data Science - 20h - 07/22 - [Certificado](./Certificados/Certsys/Certificado%20Fundamentos%20de%20Data%20Science.pdf)
 
 ---
+</br>
 
 ## CEPEDI
 
@@ -68,6 +80,18 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 - Oratória: supere desafios com confiança - 6h - 10/24 - [Certificado](./Certificados/CEPEDI/Comunicação%20de%20Liderança/Certificado%20Oratória%20supere%20desafios%20com%20confiança.pdf)
 
 --- 
+</br>
+
+## Cisco Networking Academy
+
+<a href="https://www.netacad.com/pt/">
+   <img src="./icons/cisco.jfif" height="90" width="160" style="margin-left: 10px;">
+</a>
+
+- Noções Básicas de Sistemas Operacionais - 12h - 05/25 [Certificado](./Certificados/Certificado%20Noções%20Básicas%20de%20Sistemas%20Operacionais.pdf)
+
+--- 
+</br>
 
 ## Coursera + CIEE + Google
 
@@ -90,7 +114,9 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 - **Certificado Profissional de Google Cybersecurity**
     - Fundamentos da Segurança Cibernética - 9h - 01/25 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Fundamentos%20em%20Cibersegurança.pdf)
     - Jogue pelo Seguro: Gerencie Riscos de Segurança - 9h - 02/25 - [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Jogue%20Pelo%20Seguro%20Gerencie%20Riscos%20de%20Segurança.pdf)
----
+
+--- 
+</br>
 
 ## Defensoria Pública
  <a href="https://www.defensoria.ba.def.br/">
@@ -99,13 +125,42 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 
  - Estágio em Informática - 03/22 - 01/24 - [Certificado](./Certificados/Defensoria%20Pública/Certificado%20Estagio%20Defensoria%20Pública.pdf)
 
----
+--- 
+</br>
+
+## DIO
+
+ <a href="https://https://web.dio.me/">
+            <img src="./icons/dio.jfif" height="50" width="160" style="margin-left: 10px;">
+ </a>    
+
+ - Educação Gratuita e Empregabilidade Juntas - 1h - 11/23 - [Certificado](./Certificados/DIO/Certificado%20Bootcamps%20DIO%20Educação.pdf)
+
+ - Trabalhando em Equipes Ágeis - 3h - 11/23 - [Certificado](./Certificados/DIO/Certificado%20Trabalhando%20em%20Equipes%20Ágeis.pdf)
+
+ - Versionamento de Código com Git e GitHub - 2h - 11/23 - [Certificado](./Certificados/DIO/Certificado%20Versionamento%20de%20Código%20com%20Git.pdf)
+
+--- 
+</br>
+
+## ENAP
+ <a href="https://www.enap.gov.br/">
+            <img src="./icons/enap.svg" height="50" width="120" style="margin-left: 10px;">
+ </a>   
+
+- Formação de Mediadores de Leitura - 20h - 10/25 - [Certificado](/Certificados/Certificado%20Formacao%20de%20Mediadores%20de%20Leitura.pdf)
+
+--- 
+</br>
 
 ## Instituto Federal de Educação, Ciência e Tecnologia
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
     <img src="./icons/if.png" height="60" width="160" alt="Logo Instituto Federal">
 </div>
+
+### Graduação
+- Licenciatura em Computação - 03/26 - [Diploma](./Certificados/Diploma/DIPLOMA.pdf)
 
 ### Cursos e Projetos
 
@@ -123,6 +178,9 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 
 - Monitor do Projeto de Algoritmo - 312h - 12/22 - [Certificado](./Certificados/IF/Certificado%20Monitoria%20Algoritmo.pdf)
 
+- Programa Educação Tutorial (PET) - 02/24 - 03/26 - [Certificado](./Certificados/IF/Declaração%20PET.pdf)
+- Projeto O Livro Didádico na Sala Multisseriada de Escola Indígena - 288h - 12/19 - [Certificado](./Certificados/if/Certificado%20Livro%20Didádico.pdf)
+
 - Projeto Robótica Educacional como Possibilidade de Iniciação à Programação nas Escolas Públicas - 01/22 - 12/22 - [Certificado](./Certificados/IF/Declaração%20Projeto%20Robótica.pdf)
 
 - Projeto Robótica Educacional e Ensino de Computação na Educação Básica - 03/23 - 01/24 - [Certificado](./Certificados/IF/Declaração%20Robotica%202023.pdf)
@@ -135,8 +193,64 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 
 - Segurança no Trabalho e Eletricidade Básica - 40h - 06/22 - [Certificado](./Certificados/IF/Certificado%20Segurança%20no%20Trabalho%20e%20Eletricidade%20Básica.pdf)
 
+### Congressos, Eventos e Palestras
 
----
+- I Congresso Norte-Nordeste PIBID/PRP: A Iniciação à Docência Através do Programa Residência Pedagógica - 05/24 - [Certificado](./Certificados/IF/Certificado%20%20A%20Iniciação%20à%20Docência%20Através%20do%20PRP.pdf)
+
+- I Congresso Norte-Nordeste PIBID/PRP - 30h - 05/24- [Certificado](./Certificados/IF/Certificado%20I%20CONGRESSO%20NORTE%20NORDESTE%20PIBID%20PRP.pdf)
+
+- III Congresso de Pesquisa, PósGraduação e Inovação e XIX Seminário de Iniciação Científica, Tecnológica e Inovação do
+IFBA - 30h - 11/22 - [Certificao](./Certificados/IF/Certificado%20III%20Congresso%20de%20Pesquisa%20Pós-Graduação%20e%20Inovação.pdf)
+
+- História e Diversidade dos Povos Indígenas na Bahia e Brasil - 4h - 07/22 - [Certificado](./Certificados/IF/Certificado%20História%20e%20Diversidade%20dos%20Povos%20Indígenas%20na%20Bahia%20e%20Brasil.pdf)
+
+- Mesa Redonda - A inserção da computação na Educação Básica a luz dos documentos oficiais - 03/23 - [Certificado](./Certificados/Certificado%20-%20A%20inserção%20da%20computação%20na%20educação%20básica.pdf)
+
+- Palestra Inteligência Artificial e as
+Fronteiras da Agroecologia como Ciência e Suas Relações com as Realidades dos Povos do Campo - 11/20 - [Certificado](./Certificados/IF/Certificado%20Inteligência%20artificial.pdf)
+
+- Palestra Poluição Atmosférica: Generalidades e Estudos na Recuperação de Poluentes - 1h - 11/21 - [Certificado](./Certificados/IF/Certificado%20Palestra%20Poluição%20Atmosférica.pdf)
+
+- PET Conecta com Pós-Graduação - 2h - 05/22 - [Certificado](./Certificados/IF/Certificado%20PET%20Conecta%20com%20Pós-Graduação.pdf)
+
+- XXIX ENAPET: TECNOPET: Inclusão Digital Como Ferramenta de Commbate ao Etarismo no Ensino Superior - 11/24 - [Certificado](./Certificados/IF/Certificado%20XXIX%20ENAPET%20Apresentação.pdf)
+
+- XXIX ENAPET: Encontro Nacional dos Grupos PET - 30h - 11/24 - [Certificado](./Certificados/IF/Certificado%20XXIX%20ENAPET%20Participação.pdf)
+
+--- 
+</br>
+
+## Instituto TIM
+<a href="https://timtec.com.br/pt/">
+    <img src="./icons/instituto_tim.jpg" height="70" width="270" alt="Logo Instituto TIM">
+</a>
+
+- UX e UI Design - 40h - 11/20 - [Certificado](./Certificados/Certificado%20UX%20e%20UI%20DESIGN.pdf)
+
+--- 
+</br>
+
+## Fundação Bradesco
+
+<a href="https://www.ev.org.br/">
+    <img src="./icons/fundação_bradesco.jpg" height="70" width="270" alt="Logo Fundação Bradesco">
+</a>
+
+- Fotografias com Dispositivos Móveis - 8h - 05/25 - [Certificado](./Certificados/Certificado%20Fotografias%20com%20Dispositivos%20Móveis.pdf)
+
+--- 
+</br>
+
+## Governo da Bahia
+
+<a href="https://www.ba.gov.br/servico/saeb/solicitar-inscricao-no-programa-de-estagio-partiu-estagio">
+    <img src="./icons/governo_bahia.png" height="70" width="270" alt="Logo Governo da Bahia">
+</a>
+
+- Programa Partiu Estágio - 05/24 - 05/25 - [Certificado](./Certificados/Declaração%20Partiu%20Estágio.pdf)
+
+--- 
+</br>
 
 ## Hackers do Bem
 
@@ -144,11 +258,11 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
     <img src="./icons/hackers_do_bem.png" height="70" width="170" alt="Logo Hackers do Bem">
 </a>
 
-- Formação em Cibersegurança - 80h - 03/24 - [Certificado](./Certificados/Hackers%20do%20Bem/Certificado%20Formação%20em%20Cibersegurança.pdf)
+- Formação Nivelamento em Cibersegurança - 80h - 03/24 - [Certificado](./Certificados/Hackers%20do%20Bem/Certificado%20Formação%20em%20Cibersegurança.pdf)
 
-
----
-
+- Formação Básica em Cibersegurança - 64h - 01/26 - [Certificado](./Certificados/Hackers%20do%20Bem/Certificado%20Formação%20em%20Cibersegurança%20-%20Basico.pdf)
+--- 
+</br>
 
 ## Loiane Training
 
@@ -158,8 +272,8 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 
 - Java Básico - 30h - 07/22 - [Certificado](./Certificados/Loiane%20Training/Certificado%20Java%20Basico.pdf)
 
-
----
+--- 
+</br>
 
 ## Ministério da Educação
 
@@ -167,8 +281,23 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 
 - Português - 60h - 07/21 - [Certificado](./Certificados/Ministério%20da%20Educação/Certificado%20Português.pdf)
 
----
+- Uso de Recursos Educacionais Digitais - 60h - 04/22 - [Certificado](./Certificados/Ministério%20da%20Educação/Certificado%20Uso%20de%20Recursos%20Educacionais%20Digitais.pdf) 
 
+--- 
+</br>
+
+## Oracle University
+
+<a href="https://www.oracle.com/education/">
+    <img src="./icons/oracle.png" height="70" width="170" alt="Logo Oracle University">
+</a>
+
+- Agentic AI Certified Foundations Associate - 10/26 - [Certificado](./Certificados/Oracle%20University/Certificate%20Agentic%20AI%20Certified%20Foundations%20Associat.pdf)
+
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate - 07/25 - [Certificado](./Certificados/Oracle%20University/Certificate%20Oracle%20Foundations%20Associate.pdf)
+
+--- 
+</br>
 
 ## Programa ONE T6
 
@@ -211,3 +340,28 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 - ChatGPT e programação: aumente sua produtividade - 8h - 10/24 - [Certificado](./Certificados/ONE%20T6/Allumni/Formação%20IA%20Generativa/Certificado%20ChatGPT%20e%20programação%20aumente%20sua%20produtividade.pdf)
 
 - ChatGPT: otimizando a qualidade dos resultados - 8h - 07/24 - [Certificado](./Certificados/ONE%20T6/Allumni/Formação%20IA%20Generativa/Certificado%20ChatGPT%20otimizando%20a%20qualidade%20dos%20resultados.pdf)
+
+--- 
+</br>
+
+## SENAC
+<a>
+    <img src="./icons/senac.png" height="70" width="170" alt="Logo Angular">
+</a>
+
+- Excel Básico e Avançado - 45h - 11/15 - [Certificado](./Certificados/Certificado%20Excel%20Básico%20e%20Avançado.pdf)
+
+--- 
+</br>
+
+## SENAI
+
+<a>
+    <img src="./icons/senai.png" height="70" width="170" alt="Logo Angular">
+</a>
+
+- Educação Ambiental - 14h - 05/20 - [Certificado](./Certificados/Certificado%20Educação%20Ambiental.pdf)
+
+- Lógica de Programação - 14h - 05/20 - [Certificado](./Certificados/Certificado%20Logica%20Programação.pdf)
+
+- Tecnologia da Informação e Comunicação - 14h - 05/20 - [Certificado](./Certificados/Certificado%20Tecnologia%20da%20Informação%20e%20Comunicação.pdf)
