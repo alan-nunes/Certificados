@@ -1,9 +1,35 @@
-<h1 align="center"> Certificados de Formação e Conquistas Acadêmicas 🏆 </h1>
+<div align="center">
 
+# 🏆 Certificados de Formação e Conquistas Acadêmicas
+
+**Registro de aprendizado contínuo, formação profissional e trajetória acadêmica.**
+
+</div>
+
+## 👋 Sobre este repositório
 <h2 align="justify" >
-Este repositório é dedicado aos meus certificados obtidos ao longo da minha jornada acadêmica e profissional, incluindo cursos, eventos, workshops e formações que fortaleceram minha carreira em tecnologia e educação. Cada certificado representa uma etapa de aprendizado e dedicação em áreas como desenvolvimento de software, educação digital, metodologias pedagógicas e outras habilidades essenciais. 
+Este repositório reúne certificados de cursos, formações, eventos, projetos acadêmicos e experiências de aprendizagem realizadas ao longo da minha trajetória. Os registros abrangem tecnologia da informação, suporte técnico, desenvolvimento de software, computação em nuvem, cibersegurança, educação, robótica, comunicação e outras áreas complementares. </h2>
 
-<br>Explore o repositório para acompanhar minha trajetória e habilidades desenvolvidas em diferentes áreas.</h2>
+<br> **Os links abaixo permitem consultar os documentos disponibilizados no próprio repositório.**
+
+
+## ⭐ Formação e certificações em destaque
+
+Seleção de formações presentes neste repositório. A lista completa continua organizada por instituição nas seções abaixo.
+
+| Formação | Instituição | Detalhes |
+|---|---|---|
+| Licenciatura em Computação | Instituto Federal de Educação, Ciência e Tecnologia | 03/26 · [Diploma](./Certificados/Diploma/DIPLOMA.pdf) |
+| Certificado Profissional em Suporte em TI do Google | Coursera, CIEE e Google | [Certificado](./Certificados/Coursera%20CIEE%20Google/Certificado%20Suporte%20em%20TI%20do%20Google.pdf) |
+| Formação Básica em Cibersegurança | Hackers do Bem | 64h · 01/26 · [Certificado](./Certificados/Hackers%20do%20Bem/Certificado%20Formação%20em%20Cibersegurança%20-%20Basico.pdf) |
+| Formação Nivelamento em Cibersegurança | Hackers do Bem | 80h · 03/24 · [Certificado](./Certificados/Hackers%20do%20Bem/Certificado%20Formação%20em%20Cibersegurança.pdf) |
+| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle University | 07/25 · [Certificado](./Certificados/Oracle%20University/Certificate%20Oracle%20Foundations%20Associate.pdf) |
+| Programa Oracle Next Education F2 T6 Back-end | Oracle Next Education | 303h · 07/24 · [Certificado](./Certificados/ONE%20T6/Certificado%20Oracle%20Next%20Education%20F2%20T6%20Back-end.pdf) |
+| Residência em Software — Trilha 7: Desenvolvimento Back-End (Python) | CEPEDI | 300h · 01/25 · [Certificado](./Certificados/CEPEDI/Certificado%20Programa%20de%20Residência%20em%20Software.pdf) |
+| 701 — Linux Fundamentals | 4Linux | 20h · 12/25 · [Certificado](./Certificados/Certificado%20701%20-%20Linux.pdf) |
+
+---
+</br>
 
 ## 3ª Semana Nacional da Educação Profissional e Tecnológica
 
@@ -91,7 +117,7 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
    <img src="./icons/cisco.jfif" height="90" width="160" style="margin-left: 10px;">
 </a>
 
-- Noções Básicas de Sistemas Operacionais - 12h - 05/25 [Certificado](./Certificados/Certificado%20Noções%20Básicas%20de%20Sistemas%20Operacionais.pdf)
+- Noções Básicas de Sistemas Operacionais - 12h - 05/25 - [Certificado](./Certificados/Certificado%20Noções%20Básicas%20de%20Sistemas%20Operacionais.pdf)
 
 --- 
 </br>
@@ -200,7 +226,7 @@ Este repositório é dedicado aos meus certificados obtidos ao longo da minha jo
 
 - I Congresso Norte-Nordeste PIBID/PRP: A Iniciação à Docência Através do Programa Residência Pedagógica - 05/24 - [Certificado](./Certificados/IF/Certificado%20%20A%20Iniciação%20à%20Docência%20Através%20do%20PRP.pdf)
 
-- I Congresso Norte-Nordeste PIBID/PRP - 30h - 05/24- [Certificado](./Certificados/IF/Certificado%20I%20CONGRESSO%20NORTE%20NORDESTE%20PIBID%20PRP.pdf)
+- I Congresso Norte-Nordeste PIBID/PRP - 30h - 05/24 - [Certificado](./Certificados/IF/Certificado%20I%20CONGRESSO%20NORTE%20NORDESTE%20PIBID%20PRP.pdf)
 
 - III Congresso de Pesquisa, PósGraduação e Inovação e XIX Seminário de Iniciação Científica, Tecnológica e Inovação do
 IFBA - 30h - 11/22 - [Certificao](./Certificados/IF/Certificado%20III%20Congresso%20de%20Pesquisa%20Pós-Graduação%20e%20Inovação.pdf)
@@ -333,7 +359,7 @@ Fronteiras da Agroecologia como Ciência e Suas Relações com as Realidades dos
 
 - Banco de dados e infraestrutura como código - 8h - 10/24 - [Certificado](./Certificados/ONE%20T6/Allumni/Formação%20Oracle%20Cloud%20Infrastructure/Certificado%20Banco%20de%20dados%20e%20infraestrutura%20como%20código.pdf)
 
-- Implantação de uma aplicação na nuvem - 8h - 10/24 - [Cetificado](./Certificados/ONE%20T6/Allumni/Formação%20Oracle%20Cloud%20Infrastructure/Certificado%20Implantação%20de%20uma%20aplicação%20na%20nuvem.pdf)
+- Implantação de uma aplicação na nuvem - 8h - 10/24 - [Certificado](./Certificados/ONE%20T6/Allumni/Formação%20Oracle%20Cloud%20Infrastructure/Certificado%20Implantação%20de%20uma%20aplicação%20na%20nuvem.pdf)
 
 
 #### Formação IA Generativa - 25h - 10/24 - [Certificado](./Certificados/ONE%20T6/Allumni/Formação%20IA%20Generativa/Certificado%20IA%20Generativa%20-%20ONE.pdf)
@@ -368,3 +394,10 @@ Fronteiras da Agroecologia como Ciência e Suas Relações com as Realidades dos
 - Lógica de Programação - 14h - 05/20 - [Certificado](./Certificados/Certificado%20Logica%20Programação.pdf)
 
 - Tecnologia da Informação e Comunicação - 14h - 05/20 - [Certificado](./Certificados/Certificado%20Tecnologia%20da%20Informação%20e%20Comunicação.pdf)
+
+--- 
+</br>
+
+<div align="center">
+
+📌 **Este repositório é atualizado conforme novas formações e certificados são concluídos.**
